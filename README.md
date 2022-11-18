@@ -3,7 +3,7 @@ QA Engineer (Junior,Testing) with more than 5 years of commertial experience. I 
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
+   <a href="[https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true](https://github.com/Maksimym?tab=repositories)"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=Maksimym3&show_icons=true&count_private=true"/></a>
    <a href="https://[[github.com/romankh3/github-readme-stats](https://github.com/Maksimym?tab=repositories)](https://github.com/Maksimym?tab=repositories)"><img height=150
